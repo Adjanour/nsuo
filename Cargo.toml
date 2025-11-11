@@ -1,0 +1,14 @@
+[package]
+name = "nsuo"
+version = "0.1.0"
+edition = "2024"
+authors = ["Bernard <adjanour@icloud.com>"]
+description = "A bare-metal REST API stack written from scratch in Rust."
+license = "MIT"
+repository = "https://github.com/Adjanour/nsuo"
+readme = "README.md"
+keywords = ["http", "api", "bare-metal", "rust", "web"]
+categories = ["network-programming", "web-programming"]
+
+
+[dependencies]
